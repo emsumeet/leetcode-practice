@@ -1,0 +1,12 @@
+
+# Java files
+*.class
+
+# MacOS files
+.DS_Store
+
+# IDE files (if using VSCode)
+.vscode/
+
+# Log files
+*.log
